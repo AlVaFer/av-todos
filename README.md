@@ -20,6 +20,6 @@ https://github.com/AlVaFer/av--weather
 
    4.2 Abrir chrome
 
-   4.3 El proyecto debe estar arrancado (npm run start)
+   4.3 El proyecto debe estar arrancado `npm run start`
 
    4.4 En la ventana cypress pulsad sobre cada fichero de tests a la izquierda y corren sus tests.
