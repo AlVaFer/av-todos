@@ -2,7 +2,7 @@
 
 https://github.com/AlVaFer/av--weather
 
-### Arrancar proyecto en local
+### Arrancar proyecto "todos" en local
 
 * 1º Instalar
 
