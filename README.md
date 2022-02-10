@@ -1,4 +1,4 @@
-### Por indicaciones de Lucas me enfocaría en el e2e en vez de en pruebas unitarias y de integración pero demostraría en otro proyecto cómo las hago y en éste podéis verlo: 
+### Por indicaciones de Lucas me enfocaría en el e2e en vez de en pruebas unitarias y de integración pero demostraría en otro proyecto cómo las hago. En éste podéis verlo: 
 
 https://github.com/AlVaFer/av--weather
 
